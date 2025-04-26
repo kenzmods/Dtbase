@@ -1,1 +1,31 @@
-{}
+{
+  "users": [
+    {
+      "phone": "6282389369440",
+      "username": "than2",
+      "password": "escannor",
+      "pin": "123",
+      "key": "thanganteng"
+    },
+    {
+      "phone": "6282389369394",
+      "username": "kei",
+      "password": "keijmk12",
+      "pin": "keikk",
+      "key": "thankei"
+    },
+    {
+      "phone": "676",
+      "key": "pee"
+    },
+    {
+      "phone": "533"
+    },
+    {
+      "phone": "544"
+    },
+    {
+      "phone": "6285189511338"
+    }
+  ]
+}
